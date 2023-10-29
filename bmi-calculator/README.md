@@ -1,5 +1,7 @@
 # BMI Calculator
 
+[Link to challenge](https://www.frontendmentor.io/challenges/body-mass-index-calculator-brrBkfSz1T)
+
 ## How to run
 
 ```bash
