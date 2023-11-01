@@ -1,4 +1,4 @@
-# Feedback app
+# Product feedback app
 
 [Link to challenge](https://www.frontendmentor.io/challenges/product-feedback-app-wbvUYqjR6)
 
