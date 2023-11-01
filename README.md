@@ -4,3 +4,4 @@ Developed with Vite, React & Tailwind CSS.
 
 1. [BMI Calculator](https://github.com/navix14/frontendmentor-challenges/tree/main/bmi-calculator)
 2. [Dictionary web app](https://github.com/navix14/frontendmentor-challenges/tree/main/dictionary-web-app)
+3. [Product feedback app](https://github.com/navix14/frontendmentor-challenges/tree/main/feedback-app)
