@@ -1,0 +1,51 @@
+export const mockFeedbacks = [
+  {
+    id: 1,
+    title: "Add tags for solutions",
+    content: "Easier to search for solutions based on a specific stack.",
+    category: "Enhancement",
+    num_upvotes: 112,
+    num_comments: 2,
+  },
+  {
+    id: 2,
+    title: "Add a dark theme option",
+    content:
+      "It would help people with light sensitivities and who prefer dark mode.",
+    category: "Feature",
+    num_upvotes: 99,
+    num_comments: 4,
+  },
+  {
+    id: 3,
+    title: "Q&A within challenge hubs",
+    content: "Challenge-specific Q&A would make for easy reference.",
+    category: "Feature",
+    num_upvotes: 65,
+    num_comments: 2,
+  },
+  {
+    id: 4,
+    title: "Allow image/video upload",
+    content: "Images and screencasts can enhance comments on solutions.",
+    category: "Enhancement",
+    num_upvotes: 51,
+    num_comments: 2,
+  },
+  {
+    id: 5,
+    title: "Ability to follow others",
+    content: "Stay updated on comments and solutions other people post.",
+    category: "Feature",
+    num_upvotes: 42,
+    num_comments: 3,
+  },
+  {
+    id: 6,
+    title: "Preview images not loading",
+    content: "Challenge preview images are missing when you apply a filter.",
+    category: "Bug",
+    num_upvotes: 3,
+    num_comments: 0,
+  },
+];
